@@ -1,0 +1,77 @@
+<cursos>
+    <curs curs="1r" any="2023">
+        <modul modul="M04" UF="1">           
+            <alumne>
+                <nom>Joan</nom>
+                <cognom>Perez</cognom>
+                <edat>20</edat>
+            </alumne>
+            <alumne>
+                <nom>Hassan</nom>
+                <cognom>Perez</cognom>
+                <edat>40</edat>
+            </alumne>
+        </modul>
+        <modul modeul="M02" UF="1">
+            <alumne>
+                <nom>Joan</nom>
+                <cognom>Amades</cognom>
+                <edat>10</edat>
+            </alumne>
+        </modul>
+    </curs>
+    <curs curs="2n" any="2023">
+        <modul modul="M01">
+            <alumne>
+                <nom>Josep</nom>
+                <cognom>Anglada</cognom>
+                <edat>80</edat>
+            </alumne>
+            <alumne>
+                <nom>Francisco</nom>
+                <cognom>Franco</cognom>
+                <edat>70</edat>
+            </alumne>
+        </modul>
+    </curs>
+    <curs curs="3r" any="2022">
+        <modul modul="M05" UF="3">
+            <alumne>
+                <nom>Lionel</nom>
+                <cognom>Ronaldo</cognom>
+                <edat>30</edat>
+            </alumne>
+        </modul>
+    </curs>
+    <curs curs="4t" any="2023">
+        <modul modul="M06">
+            <alumne>
+                <nom>Mario</nom>
+                <cognom>Munteano</cognom>
+                <edat>22</edat>
+            </alumne>
+            <alumne>
+                <nom>Marc</nom>
+                <cognom>Tor</cognom>
+                <edat>27</edat>
+            </alumne>
+            <alumne>
+                <nom>Bernat</nom>
+                <cognom>Perramon</cognom>
+                <edat>36</edat>
+            </alumne>
+            <alumne>
+                <nom>Eduard</nom>
+                <cognom>Roma</cognom>
+                <edat>13</edat>
+            </alumne>
+        </modul>
+        <modul modul="M07" UD="1">
+            <alumne>
+                <nom>Marta</nom>
+                <cognom>Moreno</cognom>
+                <edat>17</edat>
+            </alumne>
+        </modul>
+    </curs>
+</cursos>

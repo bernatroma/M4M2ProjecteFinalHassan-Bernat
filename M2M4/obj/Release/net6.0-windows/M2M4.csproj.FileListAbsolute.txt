@@ -1,0 +1,17 @@
+C:\Users\isard\source\repos\M2M4\M2M4\bin\Release\net6.0-windows\M2M4.exe
+C:\Users\isard\source\repos\M2M4\M2M4\bin\Release\net6.0-windows\M2M4.deps.json
+C:\Users\isard\source\repos\M2M4\M2M4\bin\Release\net6.0-windows\M2M4.runtimeconfig.json
+C:\Users\isard\source\repos\M2M4\M2M4\bin\Release\net6.0-windows\M2M4.dll
+C:\Users\isard\source\repos\M2M4\M2M4\bin\Release\net6.0-windows\M2M4.pdb
+C:\Users\isard\source\repos\M2M4\M2M4\obj\Release\net6.0-windows\M2M4.csproj.AssemblyReference.cache
+C:\Users\isard\source\repos\M2M4\M2M4\obj\Release\net6.0-windows\M2M4.Form1.resources
+C:\Users\isard\source\repos\M2M4\M2M4\obj\Release\net6.0-windows\M2M4.csproj.GenerateResource.cache
+C:\Users\isard\source\repos\M2M4\M2M4\obj\Release\net6.0-windows\M2M4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isard\source\repos\M2M4\M2M4\obj\Release\net6.0-windows\M2M4.AssemblyInfoInputs.cache
+C:\Users\isard\source\repos\M2M4\M2M4\obj\Release\net6.0-windows\M2M4.AssemblyInfo.cs
+C:\Users\isard\source\repos\M2M4\M2M4\obj\Release\net6.0-windows\M2M4.csproj.CoreCompileInputs.cache
+C:\Users\isard\source\repos\M2M4\M2M4\obj\Release\net6.0-windows\M2M4.dll
+C:\Users\isard\source\repos\M2M4\M2M4\obj\Release\net6.0-windows\refint\M2M4.dll
+C:\Users\isard\source\repos\M2M4\M2M4\obj\Release\net6.0-windows\M2M4.pdb
+C:\Users\isard\source\repos\M2M4\M2M4\obj\Release\net6.0-windows\M2M4.genruntimeconfig.cache
+C:\Users\isard\source\repos\M2M4\M2M4\obj\Release\net6.0-windows\ref\M2M4.dll

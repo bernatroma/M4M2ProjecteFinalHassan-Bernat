@@ -6,29 +6,15 @@ using System.Threading.Tasks;
 
 namespace M2M4.Model{
     public class Modul{
-        private String nom;
-        private String uf;
-        private List<Alumne> alumnes;
+        public String nom { set; get; }
+        public String uf { set; get; }
+        public List<Alumne> alumnes { set; get; }
 
-        //Getters
-        public String getNom(){
-            return nom;
-        }
-        public String getUF(){
-            return uf;
-        }
-        public List<Alumne> getAlumnes()
-        {
-            return alumnes;
-        }
+        public Modul() { }
 
-        //Setters
-        public void setNom(String nom){
-            this.nom = nom;
-        }
-        public void setUF(String uf){
-            this.uf = uf;
-        }
+        
+
+       
 
         
     }

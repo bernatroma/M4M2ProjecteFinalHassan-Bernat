@@ -7,9 +7,11 @@ using System.Threading.Tasks;
 
 namespace M2M4.Model {
     public class Alumne {
-        private String name;
-        private String lastName;
-        private int age;
+        public String name;
+        public String lastName;
+        public int age;
+
+        public Alumne() { }
 
         //Getters
         public String getName(){

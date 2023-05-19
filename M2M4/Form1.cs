@@ -1,3 +1,5 @@
+using M2M4.Controller;
+
 namespace M2M4
 {
     public partial class Form1 : Form
@@ -16,7 +18,8 @@ namespace M2M4
             OpenFileDialog ofd = new OpenFileDialog();
             ofd.Filter = "XML Files (*.xml)|*.xml";
             ofd.ShowDialog();
-            
+            Console.WriteLine(ofd.FileName);
+            CursosImport ci = new CursosImport(ofd.FileName);
         }
     }
 }

@@ -6,7 +6,7 @@ USE cursos;
 
 -- Crear la tabla "alumne"
 CREATE TABLE alumne (
-  idAlumne INT PRIMARY KEY,
+  IdAlumne INT PRIMARY KEY AUTO_INCREMENT,
   Nom VARCHAR(50),
   Cognom VARCHAR(50),
   Edat INT
@@ -14,21 +14,21 @@ CREATE TABLE alumne (
 
 -- Crear la tabla "curs"
 CREATE TABLE curs (
-  IdCurs INT PRIMARY KEY,
+  IdCurs INT PRIMARY KEY AUTO_INCREMENT,
   Curs VARCHAR(50),
   Any INT
 );
 
 -- Crear la tabla "modul"
 CREATE TABLE modul (
-  IdModul INT PRIMARY KEY,
+  IdModul INT PRIMARY KEY AUTO_INCREMENT,
   Nom VARCHAR(50),
   Uf VARCHAR(50)
 );
 
 -- Crear la tabla de relación "relacio"
 CREATE TABLE relacio (
-  idAlumne INT,
+  IdAlumne INT,
   IdCurs INT,
   IdModul INT,
   FOREIGN KEY (idAlumne) REFERENCES alumne(idAlumne),

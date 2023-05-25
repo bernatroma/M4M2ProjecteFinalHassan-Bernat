@@ -1,4 +1,6 @@
 using M2M4.Controller;
+using M2M4.Model;
+using M2M4.Model;
 
 namespace M2M4
 {
@@ -17,9 +19,12 @@ namespace M2M4
         private void btnLoadXML_Click(object sender, EventArgs e){
             OpenFileDialog ofd = new OpenFileDialog();
             ofd.Filter = "XML Files (*.xml)|*.xml";
-            ofd.ShowDialog();
-            Console.WriteLine(ofd.FileName);
-            CursosImport ci = new CursosImport(ofd.FileName);
+            if(ofd.ShowDialog() == DialogResult.OK)
+            {
+                cursos.carregarModel(ofd.FileName);
+            }
+            
+            
         }
     }
 }

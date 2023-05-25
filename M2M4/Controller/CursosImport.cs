@@ -14,6 +14,8 @@ namespace M2M4.Controller{
         public List<Curs> Cursos { get {  return cursos; } }
 
         //Constructor
+        public CursosImport(String test) { 
         
+        }
     }
 }

@@ -16,7 +16,8 @@ CREATE TABLE alumne (
 CREATE TABLE curs (
   IdCurs INT PRIMARY KEY AUTO_INCREMENT,
   Curs VARCHAR(50),
-  Any INT
+  Any INT,
+  Alumnes INT
 );
 
 -- Crear la tabla "modul"

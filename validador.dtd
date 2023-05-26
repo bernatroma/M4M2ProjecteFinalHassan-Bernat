@@ -1,0 +1,11 @@
+<!ELEMENT cursos (curs*)>
+<!ELEMENT curs (modul*)>
+<!ATTLIST curs curs CDATA #REQUIRED>
+<!ATTLIST curs any CDATA #REQUIRED>
+<!ELEMENT modul (alumne*)>
+<!ATTLIST modul modul CDATA #REQUIRED>
+<!ATTLIST modul UF CDATA #IMPLIED>
+<!ELEMENT alumne (nom, cognom, edat)>
+<!ELEMENT nom (#PCDATA)>
+<!ELEMENT cognom (#PCDATA)>
+<!ELEMENT edat (#PCDATA)>

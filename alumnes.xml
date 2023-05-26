@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <cursos>
     <curs curs="1r" any="2023">
         <modul modul="M04" UF="1">           
@@ -12,7 +13,7 @@
                 <edat>40</edat>
             </alumne>
         </modul>
-        <modul modeul="M02" UF="1">
+        <modul modul="M02" UF="1">
             <alumne>
                 <nom>Joan</nom>
                 <cognom>Amades</cognom>
@@ -21,7 +22,7 @@
         </modul>
     </curs>
     <curs curs="2n" any="2023">
-        <modul modul="M01">
+        <modul UF="2" modul="M01">
             <alumne>
                 <nom>Josep</nom>
                 <cognom>Anglada</cognom>
@@ -44,7 +45,7 @@
         </modul>
     </curs>
     <curs curs="4t" any="2023">
-        <modul modul="M06">
+        <modul modul="M06" UF="1">
             <alumne>
                 <nom>Mario</nom>
                 <cognom>Munteano</cognom>
@@ -66,7 +67,7 @@
                 <edat>13</edat>
             </alumne>
         </modul>
-        <modul modul="M07" UD="1">
+        <modul modul="M07" UF="1">
             <alumne>
                 <nom>Marta</nom>
                 <cognom>Moreno</cognom>
